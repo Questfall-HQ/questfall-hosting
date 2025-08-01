@@ -1,0 +1,83 @@
+{
+    "en": {
+        "$": {
+            "name": "English",
+            "flag": "us"
+        },
+        "founders": {
+            "bonuses": {
+                "intro": {
+                    "header": "Become a Questfall Founder",
+                    "text": "Founders are the first to join the Questfall universe. They get early access, exclusive rewards, and a share of the QFT token supply."
+                },
+                "cards": [
+                    {
+                        "title":"Passive income forever", 
+                        "desc":"Founders share 10% of the weekly QFT issuance as they own an NFT.", 
+                        "image":"images/card-f1.webp"
+                    },
+                    {
+                        "title": "Full NFT cost compensation", 
+                        "desc": "Founders receive several times more Gold than the total cost of their NFTs.", 
+                        "image": "images/card-f2.webp"
+                    },
+                    {
+                        "title": "Founders-Only Lootboxes", 
+                        "desc": "Founders receive unique lootboxes containing valuable in-game items.", 
+                        "image": "images/card-f3.webp"
+                    },
+                    {
+                        "title": "Free leveling and promotion", 
+                        "desc":  "Founders get a head start with Silver equal to their NFT’s cost.", 
+                        "image": "images/card-f4.webp"
+                    },
+                    {
+                        "title": "Free Gems for upgrade", 
+                        "desc": "Founders receive Free Gems to boost their early RPG progress.", 
+                        "image": "images/card-f5.webp"
+                    },
+                    {
+                        "title": "Deflationary Nature", 
+                        "desc": "Founder NFT supply shrinks over time, boosting their value.", 
+                        "image": "images/card-f6.webp"
+                    },
+                    {
+                        "title": "Influence the Project", 
+                        "desc": "Founder’s Club members help shape Questfall’s development.", 
+                        "image": "images/card-f7.webp"
+                    },
+                    {
+                        "title": "Founders are Early birds", 
+                        "desc": "Founders earn QFT from week one, while bonuses accelerate their start.", 
+                        "image": "images/card-f8.webp"
+                    }
+                ]
+            }
+        },
+        "ambassadors": {
+            "bonuses": {
+                "intro": {
+                    "header": "Become a Questfall Ambassador",
+                    "text": "If you have a community, a large following, or can attract an audience by other means, you can earn USDC, Founder NFTs (our most valuable assets), and platform bonuses once Questfall goes live — all by becoming a Questfall Ambassador."
+                },
+                "cards": [
+                    {
+                        "title":"Instant Payout", 
+                        "desc":"Earn up to 25% of revenue via your referral code, paid instantly in USDC.", 
+                        "image":"images/card-a1.webp"
+                    },
+                    {
+                        "title": "Founder NFTs", 
+                        "desc": "Top Ambassadors are rewarded with high tier Founder NFTs.", 
+                        "image": "images/card-a2.webp"
+                    },
+                    {
+                        "title": "Free Promo", 
+                        "desc": "Get Silver and promote your quests for free when Questfall is launched.", 
+                        "image": "images/card-a3.webp"
+                    }
+                ]
+            }
+        }
+    }
+}
