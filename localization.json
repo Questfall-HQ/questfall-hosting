@@ -52,6 +52,87 @@
                         "image": "images/card-f8.webp"
                     }
                 ]
+            },
+            "docs": "To understand why Questfall is revolutionary — and why becoming a founder is a once-in-a-lifetime opportunity — you'll need to explore the detailed mechanics outlined in our documentation.",
+            "phases": {
+                "intro": {
+                    "header": "Zero Funding Phase",
+                    "text": "Funding the project is happening through a public NFTs sale. NFTs will be sold in phases - the prices for NFTs will increase with each phase. So the less are the risks - the higher are the prices."
+                },
+                "table": {
+                    "headers": [
+                        "",
+                        "Common",
+                        "Uncommon",
+                        "Rare",
+                        "Epic",
+                        "Legendary",
+                        "Mythic"
+                    ],
+                    "rows": [
+                        [
+                            "Total Supply",
+                            "3,200",
+                            "1,600",
+                            "800",
+                            "400",
+                            "200",
+                            "100"
+                        ],
+                        [
+                            "Total Team",
+                            "320",
+                            "160",
+                            "80",
+                            "40",
+                            "20",
+                            "10"
+                        ],
+                        [
+                            "Total Public",
+                            "960",
+                            "480",
+                            "240",
+                            "120",
+                            "60",
+                            "30"
+                        ],
+                        [
+                            "Prior phases",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-"
+                        ],
+                        [
+                            "Active Phase",
+                            "32",
+                            "16",
+                            "8",
+                            "4",
+                            "2",
+                            "1"
+                        ],
+                        [
+                            "Active price",
+                            "$70",
+                            "$140",
+                            "$280",
+                            "$560",
+                            "$1120",
+                            "$2240"
+                        ]
+
+                    ]
+                }
+            },
+            "minting": {
+                "intro": {
+                    "header": "Minting NFTS",
+                    "text": "There's no limit to how many NFTs a wallet can hold, so you can mint any combination of tiers at once."
+                }
             }
         },
         "ambassadors": {
